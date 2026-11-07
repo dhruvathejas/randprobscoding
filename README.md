@@ -1,2 +1,4 @@
 # randprobscoding
-It solve problems with coding!
+It solves problems with coding!
+
+Now it currently works with a bit of classical physics.
